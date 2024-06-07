@@ -1,5 +1,5 @@
 # odin-recipes
-Project created to share three various recipies 
+Project created to share three various recipes.
 
 
 
